@@ -1,0 +1,13 @@
+Plan idea from Brad Traversy.
+
+Create canvas-rendering context
+Create the ball object and create the path(draw) the ball
+Create the paddle object and create the path(draw) the paddle
+Create the bricks object(an array with an array: rows and columns with the blocks)
+Blocks will invisible and visible properties
+Add an update function to animate(redrawing the canvas using the requestAnimationFrame function which takes in a call back)
+Move the paddle using keyboard event handlers
+Move the ball along with the paddle
+Adding wall boundaries
+Increase the score when the bricks break
+Redraw the blocks and reset score when game is lost.
